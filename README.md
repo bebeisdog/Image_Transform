@@ -1,7 +1,7 @@
 # 電腦視覺 HW1 
 
 :::success
-作業內容為手刻 Affine Transform(6DOF) 、 Prospective transform(8DOF)，分別將圖片，以及影片貼上
+內容皆為手刻 Affine Transform(6DOF) 、 Prospective transform(8DOF)，分別將圖片，以及影片貼上
 :::
 
 ## Affine Transform(6DOF)圖片版本
@@ -22,15 +22,18 @@
 
 ## Affine Transform(6DOF)影片版本
 
-{%youtube y0NqvXJdpng %}
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/y0NqvXJdpng4/0.jpg)](http://www.youtube.com/watch?v=y0NqvXJdpng)
+或是這裡有[影片](http://www.youtube.com/watch?v=y0NqvXJdpng)
 
 ## Prospective transform(8DOF)圖片版本
 
-{%youtube 9AH_tUz7mmg %}
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9AH_tUz7mmg/0.jpg)](http://www.youtube.com/watch?v=9AH_tUz7mmg)
+或是這裡有[影片](http://www.youtube.com/watch?v=9AH_tUz7mmg)
 
 ## Prospective transform(8DOF)影片版本
 
-{%youtube diHIKPIFo_M %}
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/diHIKPIFo_M/0.jpg)](http://www.youtube.com/watch?v=diHIKPIFo_M)
+或是這裡有[影片](http://www.youtube.com/watch?v=diHIKPIFo_M)
 
 ## 心得
 
