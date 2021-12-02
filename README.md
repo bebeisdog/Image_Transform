@@ -9,20 +9,22 @@
 在背景圖選取三個點，將要貼過去的圖片，透過轉移矩陣轉過去。
 
 * 要貼過去的圖
+
 ![](https://i.imgur.com/H2qcW0T.png)
 
-
 * 背景圖 
+
 ![](https://i.imgur.com/1BH4ImV.png)
 
 **<font color = 'red' size = 5>結果圖如下</font>**
+
 ![](https://i.imgur.com/BfNVVpE.png)
 
 ---
 
 ## Affine Transform(6DOF) Video Vision
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/y0NqvXJdpng4/1.jpg)](http://www.youtube.com/watch?v=y0NqvXJdpng)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/y0NqvXJdpng/0.jpg)](http://www.youtube.com/watch?v=y0NqvXJdpng)
 
 或是這裡有[影片](http://www.youtube.com/watch?v=y0NqvXJdpng)
 
