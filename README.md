@@ -1,8 +1,6 @@
-# 電腦視覺 HW1 
+# Computer Vision Application -- Image Tranform
 
-:::success
-內容皆為手刻 Affine Transform(6DOF) 、 Prospective transform(8DOF)，分別將圖片，以及影片貼上
-:::
+## 內容皆為手刻 Affine Transform(6DOF) 、 Prospective transform(8DOF)，分別將圖片，以及影片貼上
 
 ## Affine Transform(6DOF)圖片版本
 
