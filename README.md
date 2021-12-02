@@ -20,19 +20,19 @@
 
 ---
 
-## Affine Transform(6DOF)影片版本
+## Affine Transform(6DOF) Video Vision
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/y0NqvXJdpng4/0.jpg)](http://www.youtube.com/watch?v=y0NqvXJdpng)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/y0NqvXJdpng4/1.jpg)](http://www.youtube.com/watch?v=y0NqvXJdpng)
 
 或是這裡有[影片](http://www.youtube.com/watch?v=y0NqvXJdpng)
 
-## Prospective transform(8DOF)圖片版本
+## Prospective transform(8DOF) Pic Vesion
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9AH_tUz7mmg/0.jpg)](http://www.youtube.com/watch?v=9AH_tUz7mmg)
 
 或是這裡有[影片](http://www.youtube.com/watch?v=9AH_tUz7mmg)
 
-## Prospective transform(8DOF)影片版本
+## Prospective transform(8DOF) Video Vesion
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/diHIKPIFo_M/0.jpg)](http://www.youtube.com/watch?v=diHIKPIFo_M)
 
