@@ -2,7 +2,7 @@
 
 ## 內容皆為手刻 Affine Transform(6DOF) 、 Prospective transform(8DOF)，分別將圖片，以及影片貼上
 
-## Affine Transform(6DOF)圖片版本
+## Affine Transform(6DOF) Pic Vision
 
 在背景圖選取三個點，將要貼過去的圖片，透過轉移矩陣轉過去。
 
